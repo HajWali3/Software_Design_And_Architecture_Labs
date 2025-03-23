@@ -1,18 +1,23 @@
+Here’s the updated **README** to reflect both labs accurately:
+
+---
+
 # **Software Design and Architecture Labs**
 
-This repository contains lab exercises for the **Software Design and Architecture** course. Each lab demonstrates key software design patterns and principles.
+This repository contains lab exercises for the **Software Design and Architecture** course, covering key design principles and patterns through practical implementations.
 
 ## **Lab Structure**
 
-- Each lab is organized into separate folders for clarity.
-- Code is implemented in Java following best practices.
+- Each lab is organized into separate folders.
+- Implemented in Java with a focus on clean and maintainable code.
 
 ## **Labs Overview**
 
-### **1. DynamicObserverPattern**
+### **1. Implementation of Software Principles**
 
-🔹 **Task:** Modify the Observer Pattern example by adding a **detach** method and ensuring only active observers receive updates.
+🔹 🔹 **Task:** Refactor a social media application to improve cohesion by separating concerns into `UserProfile`, `Messaging`, and `Notification` classes.
 
-### **2. EventManagement**
+### **2. Behavioral Patterns**
 
-🔹 **Task:** Implement an event-driven system where listeners respond to file operations and validate SMS length before sending.
+🔹 **DynamicObserverPattern:** Modify the **Observer Pattern** by adding a **detach** method and ensuring only active observers receive updates.  
+🔹 **EventManagement:** Implement an event-driven system where listeners respond to file operations and validate SMS length before sending.
