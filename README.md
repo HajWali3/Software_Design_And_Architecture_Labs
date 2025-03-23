@@ -15,7 +15,7 @@ This repository contains lab exercises for the **Software Design and Architectur
 
 ### **1. Implementation of Software Principles**
 
-🔹 🔹 **Task:** Refactor a social media application to improve cohesion by separating concerns into `UserProfile`, `Messaging`, and `Notification` classes.
+🔹 **Task:** Refactor a social media application to improve cohesion by separating concerns into `UserProfile`, `Messaging`, and `Notification` classes.
 
 ### **2. Behavioral Patterns**
 
