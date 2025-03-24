@@ -20,7 +20,7 @@ public class Subject {
         observers.add(observer);
     }
 
-    public void detach(Observer observer) { // New detach method
+    public void detach(Observer observer) { 
         observers.remove(observer);
     }
 

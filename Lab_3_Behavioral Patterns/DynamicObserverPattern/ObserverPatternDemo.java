@@ -12,7 +12,7 @@ public class ObserverPatternDemo {
         subject.setState(15);
 
         // Detach an observer dynamically
-        System.out.println("\nDetaching OctalObserver...\n");
+        System.out.println("Detaching OctalObserver...\n");
         subject.detach(octalObserver);
 
         System.out.println("Second state change: 10");
