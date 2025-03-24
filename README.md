@@ -1,7 +1,3 @@
-Here’s the updated **README** to reflect both labs accurately:
-
----
-
 # **Software Design and Architecture Labs**
 
 This repository contains lab exercises for the **Software Design and Architecture** course, covering key design principles and patterns through practical implementations.
