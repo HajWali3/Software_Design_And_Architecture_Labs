@@ -6,7 +6,7 @@ This Java program implements the **Pipe and Filter** design pattern to process a
 
 ## Features
 
-- **Filter Even Numbers**: Keeps only even numbers.
+- **Filter Odd Numbers**: Keeps only odd numbers.
 - **Square Numbers**: Squares each number.
 - **Filter Numbers Greater Than 10**: Retains numbers greater than 10.
 - **Filter Numbers Less Than 100**: Keeps numbers below 100.
